@@ -29,14 +29,22 @@ Can analyze and provide multiple aspects of medical data.
 
 **📂 Project Structure**
 MedicalChatBot/
-│── data/              # Preprocessed medical text dataset
+│── data/  # Preprocessed medical text dataset
+
 │── notebooks/         # Jupyter notebooks for training & experimentation
+
 │── src/               # Core chatbot implementation
+
 │   ├── model.py       # Model architecture & training code
+
 │   ├── chatbot.py     # Chatbot logic for Q&A
+
 │   └── utils.py       # Helper functions
+
 │── requirements.txt   # Dependencies
+
 │── app.py             # Flask/Streamlit app for chatbot interface
+
 │── README.md          # Project documentation
 
 ** Getting Started**
