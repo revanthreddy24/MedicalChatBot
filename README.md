@@ -64,6 +64,8 @@ LangChain     – for building RAG pipelines
 
 OpenAI  LLMs    – for answer generation
 
+Huggingface    - vector embedding 
+
 Pinecone    – vector database for retrieval
 
 PyPDFLoader  – for parsing encyclopedia PDF
