@@ -58,7 +58,7 @@ Flask / Streamlit (for app interface)
 
 Jupyter Notebook (for experiments & testing)
 
-**Core Libraries**
+** Core Libraries **
 
 LangChain
  – for building RAG pipelines
