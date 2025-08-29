@@ -74,6 +74,8 @@ python-dotenv – environment variable management
 
 
 
+
+
 **Getting Started**
 
 **1. Clone the Repository**
@@ -86,6 +88,7 @@ pip install -r requirements.txt
 **3. Run the Chatbot**
 
 by using the resource folder and trails.ipynb all folders(for now it is not designed using streamlit/flask, will update it very soon)
+
 
 
 
