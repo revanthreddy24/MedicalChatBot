@@ -29,7 +29,8 @@ Can analyze and provide multiple aspects of medical data.
 
 **📂 Project Structure**
 MedicalChatBot/
-│── data/  # Preprocessed medical text dataset
+
+│── data/ (book--pdf) # Preprocessed medical text dataset
 
 │── notebooks/         # Jupyter notebooks for training & experimentation
 
