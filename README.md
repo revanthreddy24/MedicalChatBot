@@ -58,25 +58,19 @@ Flask / Streamlit (for app interface)
 
 Jupyter Notebook (for experiments & testing)
 
-** Core Libraries **
+**Core Libraries**
 
-LangChain
- – for building RAG pipelines
+LangChain     – for building RAG pipelines
 
-OpenAI / HuggingFace LLMs
- – for answer generation
+OpenAI / HuggingFace LLMs    – for answer generation
 
-Pinecone / FAISS / Chroma
- – vector database for retrieval
+Pinecone / FAISS / Chroma     – vector database for retrieval
 
-PyPDFLoader / UnstructuredPDFLoader
- – for parsing encyclopedia PDF
+PyPDFLoader / UnstructuredPDFLoader  – for parsing encyclopedia PDF
 
 pandas, numpy – data preprocessing
 
 python-dotenv – environment variable management
-
-Deployment & Environment
 
 .env file for storing API keys
 
