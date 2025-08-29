@@ -108,9 +108,6 @@ Expand training data beyond Vol. 1 (A–B).
 
 Integrate LLM (OpenAI / HuggingFace) for more natural responses.
 
-Add speech-to-text for voice-based interaction.
-
-Deploy as a web app with user-friendly UI.
 
 **⚠️ Disclaimer**
 
