@@ -47,7 +47,7 @@ MedicalChatBot/
 
 │── README.md          # Project documentation
 
-** Getting Started**
+**Getting Started**
 **1. Clone the Repository**
 git clone https://github.com/revanthreddy24/MedicalChatBot.git
 cd MedicalChatBot
