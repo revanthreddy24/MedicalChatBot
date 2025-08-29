@@ -26,6 +26,7 @@ Trained on a comprehensive medical encyclopedia.
 
 Can analyze and provide multiple aspects of medical data.
 
+
 **📂 Project Structure**
 MedicalChatBot/
 │── data/              # Preprocessed medical text dataset
