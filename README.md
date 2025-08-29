@@ -153,6 +153,8 @@ Passionate about AI, NLP, and Healthcare Applications
 GitHub Profile
 
 **Architecture**
+
+
 <img width="609" height="831" alt="image" src="https://github.com/user-attachments/assets/7ef4dbaf-e581-4cd9-897d-a663303be501" />
 
 <img width="531" height="860" alt="image" src="https://github.com/user-attachments/assets/dc2c2de8-c3db-4496-b8f3-63ca382ebd7d" />
