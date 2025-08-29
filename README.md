@@ -48,6 +48,38 @@ MedicalChatBot/
 
 │── README.md          # Project documentation
 
+**🛠️ Tech Stack**
+
+Languages & Frameworks
+
+Python 3.10+
+
+Flask / Streamlit (for app interface)
+
+Jupyter Notebook (for experiments & testing)
+
+Core Libraries
+
+LangChain
+ – for building RAG pipelines
+
+OpenAI / HuggingFace LLMs
+ – for answer generation
+
+Pinecone / FAISS / Chroma
+ – vector database for retrieval
+
+PyPDFLoader / UnstructuredPDFLoader
+ – for parsing encyclopedia PDF
+
+pandas, numpy – data preprocessing
+
+python-dotenv – environment variable management
+
+Deployment & Environment
+
+.env file for storing API keys
+
 **Getting Started**
 
 **1. Clone the Repository**
