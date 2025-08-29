@@ -62,17 +62,17 @@ Jupyter Notebook (for experiments & testing)
 
 LangChain     – for building RAG pipelines
 
-OpenAI / HuggingFace LLMs    – for answer generation
+OpenAI  LLMs    – for answer generation
 
-Pinecone / FAISS / Chroma     – vector database for retrieval
+Pinecone    – vector database for retrieval
 
-PyPDFLoader / UnstructuredPDFLoader  – for parsing encyclopedia PDF
-
-pandas, numpy – data preprocessing
+PyPDFLoader  – for parsing encyclopedia PDF
 
 python-dotenv – environment variable management
 
 .env file for storing API keys
+
+
 
 **Getting Started**
 
