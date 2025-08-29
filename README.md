@@ -151,3 +151,7 @@ Master’s in Computer Science (AI focus)
 Passionate about AI, NLP, and Healthcare Applications
 
 GitHub Profile
+
+**Architecture**
+<img width="704" height="880" alt="image" src="https://github.com/user-attachments/assets/c4660b63-1013-4128-8314-031872c4b459" />
+
