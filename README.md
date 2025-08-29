@@ -54,9 +54,6 @@ Languages & Frameworks
 
 Python 3.10+
 
-Flask / Streamlit (for app interface)
-
-Jupyter Notebook (for experiments & testing)
 
 **Core Libraries**
 
