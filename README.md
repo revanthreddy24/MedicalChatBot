@@ -154,4 +154,6 @@ GitHub Profile
 
 **Architecture**
 <img width="704" height="880" alt="image" src="https://github.com/user-attachments/assets/c4660b63-1013-4128-8314-031872c4b459" />
+<img width="531" height="860" alt="image" src="https://github.com/user-attachments/assets/dc2c2de8-c3db-4496-b8f3-63ca382ebd7d" />
+
 
