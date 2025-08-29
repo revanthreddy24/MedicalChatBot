@@ -61,6 +61,7 @@ by using the resource folder and trails.ipynb all folders(for now it is not desi
 
 
 
+
 **🧠 How It Works**
 
 *Data Preparation*
