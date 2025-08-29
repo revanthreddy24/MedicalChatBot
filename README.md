@@ -96,7 +96,10 @@ Bot Output:
 Malaria is an infectious disease caused by parasites transmitted through mosquito bites. 
 - Symptoms: Fever, chills, sweats, headaches, nausea, and vomiting.  
 - Diagnosis: Blood tests to detect parasites.  
-- Prevention: Use of mosquito nets, repellents, and preventive medications.  
+- Prevention: Use of mosquito nets, repellents, and preventive medications.
+
+  <img width="1232" height="437" alt="image" src="https://github.com/user-attachments/assets/9e3774c0-3f55-479d-88fd-6ecf2ed3a3d5" />
+
 
 **📌 Future Improvements**
 
